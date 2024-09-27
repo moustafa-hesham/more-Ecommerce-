@@ -2,9 +2,7 @@ import React from 'react'
 
 function Shoppage() {
   return (
-    <div>
-        
-    </div>
+    <div>Shoppage</div>
   )
 }
 
