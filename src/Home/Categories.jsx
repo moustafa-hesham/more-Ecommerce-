@@ -1,9 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 function Categories() {
-  return (
-    <div>Cat</div>
-  )
+  return <div>Cat</div>;
 }
 
-export default Categories
+export default Categories;
