@@ -9,7 +9,7 @@ export default function NavBar() {
             className="navbar-brand text-success logo h1 align-self-center"
             href="index.html"
           >
-            More
+            <img src="assets/img/logo.png" alt="logo" style={{ width: '70px' }} />
           </a>
 
           <button
